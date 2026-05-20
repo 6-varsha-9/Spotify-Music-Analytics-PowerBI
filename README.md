@@ -27,3 +27,9 @@ Dashboard Screenshots
 - Overview
 - Artists
 - Songs
+
+Business Insights
+- Taylor Swift has the highest number of songs in the dataset.
+- Explicit songs show higher average popularity.
+- Singles dominate Spotify chart rankings.
+- Most tracks fall within the 2–4 minute duration range.
